@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Z30.mk
+    $(LOCAL_DIR)/twrp_Z30.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Z30-user \
-    omni_Z30-userdebug \
-    omni_Z30-eng
+    twrp_Z30-user \
+    twrp_Z30-userdebug \
+    twrp_Z30-eng
